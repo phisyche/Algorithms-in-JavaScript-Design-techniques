@@ -20,3 +20,9 @@ Example Complexity values
 When solving complexities, using asymptotic analysis, smaller complexity values can be eliminated at larger inputs, larger complexity values becomes gigantic as compared to smaller ones.
 
 ![Turing](Images/turing.jpg)
+ Mathematician, computer scientist, logician and cryptanalyst.
+
+![Claude Shannon](Images/claudeshannon.jpg)
+ Mathematician, electrical engineer, and cryptographer.
+
+![John Von Neumann](Images/vonneumann.png)
