@@ -26,3 +26,4 @@ When solving complexities, using asymptotic analysis, smaller complexity values 
  Mathematician, electrical engineer, and cryptographer.
 
 ![John Von Neumann](Images/vonneumann.png)
+ Mathematician, physicist, computer scientist, engineer and polymath.
