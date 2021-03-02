@@ -19,4 +19,4 @@ The master theorem is used in calculating the time complexity of recurrence rela
 
 If a ≥ 1 and b > 1 are constants and f(n) is an asymptotically positive function, then the time complexity of a recursive relation is given by:
 
-![master's theorem](Images/master_theorem.png)
+![master's theorem](../Images/master.png)
