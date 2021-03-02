@@ -18,3 +18,6 @@ Example Complexity values
 - O(N!) Factorial time complexity
 
 When solving complexities, using asymptotic analysis, smaller complexity values can be eliminated at larger inputs, larger complexity values becomes gigantic as compared to smaller ones.
+
+![Turing](/home/codex/Pictures/turing.jpg)
+Format: ![Alt Text](url)
