@@ -9,3 +9,11 @@ Algorithm solution
 Time Complexity: O(2**n) time
 Space Complexity: O(n) space
 
+Problem 02: Finding Substrings
+
+Algorithm solution
+
+![finding substrings](../Images/findsubstring.png)
+
+Time Complexity: O(2**n) time
+Space Complexity: O(n) space
