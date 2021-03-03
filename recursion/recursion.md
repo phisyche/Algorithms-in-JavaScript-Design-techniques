@@ -36,3 +36,27 @@ Algorithm solution
 Time Complexity: O(n+m) time
 Space Complexity: O(n+m) space
 
+Types of Recursion
+
+- Direct Recursion (method directly call itself)
+
+- Indirect/Mutual Recursion (it is when a function say a function a calls another function function b and function b again calls function a this is called)
+
+- Multi-Recursion (calling the same function twice in the same function)
+
+- Head Recursion (when there is some operation left to be performed after the recursive step)
+
+- Tail Recursion (there is no operation to be performed after the recursive step)
+
+Categories of recursive functions
+
+- linear recursive functions 
+
+- tree recursive functions or binary recursive functions 
+
+- exponential recursive functions 
+
+- nested recursive functions
+
+
+Tail-call optimization is where you are able to avoid allocating a new stack frame for a function because the calling function will simply return the value that it gets from the called function.
