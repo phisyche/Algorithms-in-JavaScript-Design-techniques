@@ -17,3 +17,12 @@ Algorithm solution
 
 Time Complexity: O(2**n) time
 Space Complexity: O(n) space
+
+Problem 03: Array Product Sum
+
+Algorithm solution
+
+![array product sum](../Images/arrayproductsum.png)
+
+Time Complexity: O(N) time
+Space Complexity: O(d) space where d is the depth
