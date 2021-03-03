@@ -26,3 +26,13 @@ Algorithm solution
 
 Time Complexity: O(N) time
 Space Complexity: O(d) space where d is the depth
+
+Problem 04: Binary Subtree
+
+Algorithm solution
+
+![Binary subtree](../Images/binarysubtree.png)
+
+Time Complexity: O(n+m) time
+Space Complexity: O(n+m) space
+
