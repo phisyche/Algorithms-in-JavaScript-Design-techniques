@@ -29,16 +29,12 @@ root2.right = new Node(3);
 
 console.log(checkSubtree(root1, root2));
 
-
 function inOrder(node, list){
     if(node == null)
         return;
 
-    //left
     inOrder(node.left, list);
-    //node
     list.push(node.data);
-    //right
     inOrder(node.right, list);
 }
 
@@ -46,7 +42,6 @@ function preOrder(node, list){
     if(node == null)
         return;
 
-    //node
     list.push(node.data);
     //left
     preOrder(node.left, list);
