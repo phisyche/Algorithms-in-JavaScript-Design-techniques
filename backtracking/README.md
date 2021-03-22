@@ -15,3 +15,6 @@ Problem 01: Rat in maze
 Algorithm solution
 
 ![Rat in maze](../Images/rat_in_maze.png)
+
+Time Complexity: O(2**n**2) time
+Space Complexity: O(n**2) space

@@ -43,9 +43,9 @@ function preOrder(node, list){
         return;
 
     list.push(node.data);
-    //left
+
     preOrder(node.left, list);
-    //right
+
     preOrder(node.right, list);
 }
 
