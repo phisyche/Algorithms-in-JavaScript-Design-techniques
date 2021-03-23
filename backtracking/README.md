@@ -29,3 +29,14 @@ Algorithm solution
 
 Time Complexity: O(n!) time
 Space Complexity: O(n) space
+
+Problem 03: Knight tour problem
+- Choices - knight moves 8 squares from original position in an 8*8 board.
+- Constraints - visiting each square once.
+
+Algorithm solution
+
+![Knight tour](../Images/knighttour.png)
+
+Time Complexity: O(8**(n**2)) time
+Space Complexity: O(n**2) space
