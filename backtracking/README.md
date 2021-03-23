@@ -40,3 +40,14 @@ Algorithm solution
 
 Time Complexity: O(8**(n**2)) time
 Space Complexity: O(n**2) space
+
+Proble 04: Boggle word search
+- Choices - to find given words in the given matrix formed by sequence of adjacent characters
+- Constraints - There are 8 choices to be made to achieve a solution
+
+Algorithm solution
+
+![Boggle](../Images/boggle.png)
+
+Time Complexity: O(8**(m*n)) time
+Space Complexity: O(n**2) space
