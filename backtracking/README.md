@@ -16,5 +16,16 @@ Algorithm solution
 
 ![Rat in maze](../Images/rat_in_maze.png)
 
-Time Complexity: O(2**n**2) time
+Time Complexity: O(2**(n**2)) time
 Space Complexity: O(n**2) space
+
+Problem 02: N-Queens
+- Choices - queens to be placed in 4*4 board in a way no two queens attack each other
+- Constraints - queen can move horizontally, vertically and diagonally
+
+Algorithm solution
+
+![N-Queens](../Images/nqueens.png)
+
+Time Complexity: O(n!) time
+Space Complexity: O(n) space
