@@ -50,4 +50,4 @@ Algorithm solution
 ![Boggle](../Images/boggle.png)
 
 Time Complexity: O(8**(m*n)) time
-Space Complexity: O(n**2) space
+Space Complexity: O(m*n) space
