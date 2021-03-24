@@ -25,3 +25,13 @@ Algorithm solution
 
 Time Complexity: O(n**2) time
 Space Complexity: O(n) space
+
+Problem 01: Median of Medians
+-To find the median of an array. We use the quick sort method i.e, choosing a pivot then rearranging the numbers. Smaller ones to the left and greater ones to the right. You do this recursively until you get the median.
+
+Algorithm solution
+
+![median of medians solution](../Images/median1.png)
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n) space
