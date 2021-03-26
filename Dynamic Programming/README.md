@@ -34,3 +34,26 @@ Bottom-up:
 
 Time Complexity: O(n) time
 Space Complexity: O(n) space
+
+Problem 02: Knapsack Problem
+- Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+
+Solution
+
+![Knapsack solution](../Images/knapsackdp.png)
+
+Recursion:
+
+Time Complexity: O(2**n) time
+Space Complexity: O(n) space
+
+Top-down:
+
+Time Complexity: O(nw) time
+Space Complexity: O(nw) space
+
+
+Bottom-up:
+
+Time Complexity: O(nw) time
+Space Complexity: O(nw) space
