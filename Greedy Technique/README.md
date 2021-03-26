@@ -11,7 +11,7 @@ Problem 01: Fractional Knapsack
 
 Solution
 
-![Recursion solution](../Images/knapsack.png)
+![Knapsack solution](../Images/knapsack.png)
 
 Time Complexity: O(n*log(n)) time
 Space Complexity: O(1) space
@@ -19,3 +19,10 @@ Space Complexity: O(1) space
 Problem 01: Interval Scheduling
 - Consider a set of tasks. Each task is represented by an interval describing the time in which it needs to be executed. 
 - The interval scheduling maximization problem (ISMP) is to find a largest compatible set - a set of non-overlapping intervals of maximum size.
+
+Solution
+
+![Interval scheduling solution](../Images/interval.png)
+
+Time Complexity: O(n*log(n)) time
+Space Complexity: O(n) space
