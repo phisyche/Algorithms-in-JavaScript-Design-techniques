@@ -124,3 +124,25 @@ Bottom-up:
 
 Time Complexity: O(m*n) time
 Space Complexity: O(m*n) space
+
+Problem 06: Rod Cutting problem
+- Given a rod of length n, and an array that contains the prices of all the pieces smaller than n, determine the maximum profit you could obtain from cutting up the rod and selling its pieces.
+
+Solution
+
+![Rod cutting solution](../Images/rodcut.png)
+
+Recursion: 
+
+Time Complexity: O(2**(n-1)) time
+Space Complexity: O(n) space
+
+Top-down: 
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n) space
+
+Bottom-up: 
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n) space
