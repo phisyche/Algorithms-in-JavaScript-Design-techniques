@@ -79,3 +79,25 @@ Bottom-up:
 
 Time Complexity: O(M**A) time
 Space Complexity: O(A) space
+
+Problem 04: Longest decreasing subsequence
+- The task is to find the length of the longest subsequence in a given array of integers such that all elements of the subsequence are sorted in descending order.
+
+Solution
+
+![Longest decreasing subsequence solution](../Images/longestdec.png)
+
+Recursion: 
+
+Time Complexity: O(2**n) time
+Space Complexity: O(n) space
+
+Top-down: 
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n**2) space
+
+Bottom-up: 
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n) space
