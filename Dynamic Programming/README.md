@@ -5,7 +5,9 @@ Dynamic Programming is an algorithmic technique for solving an optimization prob
 A problem needs to be broken down into smaller subproblems.
 Problem demads for optimal solution.
 
-Differnce between DP and the greedy technique:
+Difference between DP and the greedy technique:
+
+![Solution](../Images/sol.png)
 
 ![DP vs greedy](../Images/dpvsgreedy.png)
 
