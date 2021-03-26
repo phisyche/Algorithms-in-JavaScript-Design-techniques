@@ -57,3 +57,25 @@ Bottom-up:
 
 Time Complexity: O(nw) time
 Space Complexity: O(nw) space
+
+Problem 03: Coin Change Problem
+- Given an amount and the denominations of coins available, determine how many ways change can be made for amount. There is a limitless supply of each coin type.
+
+Solution
+
+![Coin change solution](../Images/coinchange.png)
+
+Recursion: 
+
+Time Complexity: O(M**A) time
+Space Complexity: O(A) space
+
+Top-down: 
+
+Time Complexity: O(MA) time
+Space Complexity: O(A) space
+
+Bottom-up: 
+
+Time Complexity: O(M**A) time
+Space Complexity: O(A) space
