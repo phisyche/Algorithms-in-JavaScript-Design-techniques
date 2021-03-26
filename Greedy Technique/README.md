@@ -37,3 +37,15 @@ Solution
 
 Time Complexity: O(n*log(k)) time
 Space Complexity: O(k) space
+
+Problem 04: Dijkstra
+- Finding the shortest paths between nodes in a graph, which may represent, for example, road networks.
+- For a given source node in the graph, the algorithm finds the shortest path between that node and every other.
+- It can also be used for finding the shortest paths from a single node to a single destination node by stopping the algorithm once the shortest path to the destination node has been determined. 
+
+Solution
+
+![Dijkstra solution](../Images/huffman.png)
+
+Time Complexity: O(n**2) time
+Space Complexity: O(n) space
