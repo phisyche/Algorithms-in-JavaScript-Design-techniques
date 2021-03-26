@@ -146,3 +146,28 @@ Bottom-up:
 
 Time Complexity: O(n**2) time
 Space Complexity: O(n) space
+
+Problem 07: Matrix chain multiplication
+- Given a sequence of matrices, find the most efficient way to multiply these matrices together.
+- The problem is not actually to perform the multiplications, but merely to decide in which order to perform the multiplications.
+- We have many options to multiply a chain of matrices because matrix multiplication is associative.
+
+Solution
+
+![Matrix chain multiplication solution](../Images/matrix.png)
+
+Recursion: 
+
+Time Complexity: O(2**n) time
+Space Complexity: O(n) space
+
+Top-down: 
+
+Time Complexity: O(n**3) time
+Space Complexity: O(n**2) space
+
+Bottom-up: 
+
+Time Complexity: O(n**3) time
+Space Complexity: O(n**2) space
+
