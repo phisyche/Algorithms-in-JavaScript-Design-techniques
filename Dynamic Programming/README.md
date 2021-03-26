@@ -101,3 +101,26 @@ Bottom-up:
 
 Time Complexity: O(n**2) time
 Space Complexity: O(n) space
+
+
+Problem 05: Levenstein problem
+- The minimum number of changes required to convert string a into string b (this is done by inserting, deleting or replacing a character in string a).
+
+Solution
+
+![Levenstein solution](../Images/levenstein.png)
+
+Recursion: 
+
+Time Complexity: O(3**n) time
+Space Complexity: O(m*n) space
+
+Top-down: 
+
+Time Complexity: O(m*n) time
+Space Complexity: O(m*n) space
+
+Bottom-up: 
+
+Time Complexity: O(m*n) time
+Space Complexity: O(m*n) space
